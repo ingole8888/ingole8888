@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Ingole</h1>
 <h3 align="center">Full Stack Web Developer</h3>
+<p align="center">Enthusiastic Full Stack Developer. Work on various projects in a Masai School during last week of a every unit using React-JS, Bootstrap, Chakra-UI and CSS for frontend and Node.js, Express and MongoDB for backend. Interested for a position Software Developer to enhance my skills and to enhance the user experience.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingole8888&label=Profile%20views&color=0e75b6&style=flat" alt="ingole8888" /> </p>
 
