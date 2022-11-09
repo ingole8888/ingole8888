@@ -40,6 +40,7 @@ alt=""
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingole8888&show_icons=true&locale=en" alt="ingole8888" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingole8888&" alt="ingole8888" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingole8888&layout=compact"/></>
 
 
 
