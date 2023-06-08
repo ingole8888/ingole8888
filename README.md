@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Ingole</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p align="center">Enthusiastic Full Stack Developer. Work on various projects in a Masai School during last week of a every unit using React-JS, Bootstrap, Chakra-UI and CSS for frontend and Node.js, Express and MongoDB for backend. Interested for a position Software Developer to enhance my skills and to enhance the user experience.</p>
+<p align="center">Enthusiastic Full Stack Developer.have a experience of working on diffrent integrations like Google calender integration, Microsoft calender and Teams integration and Active directory integration also Work on various projects in a Masai School during last week of a every unit using React-JS, Bootstrap, Chakra-UI and CSS for frontend and Node.js, Express and MongoDB for backend. Interested for a position Software Developer to enhance my skills and to enhance the user experience.</p>
 
 
 <img  src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966"
