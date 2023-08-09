@@ -13,8 +13,6 @@ alt=""
 
 - 🔭 I’m currently working on [bathandbodyworks.com clone](https://github.com/ingole8888/colossal-dog-2458)
 
-- 🌱 I’m currently learning **Full Stack Web Development Course**
-
 - 👨‍💻 All of my projects are available at [https://ingole8888.github.io/](https://ingole8888.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@ingole8888](https://medium.com/@ingole8888)
